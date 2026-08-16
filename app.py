@@ -11,3 +11,6 @@ def search_employee(name):
 def salary():
     return 50000
 >>>>>>> feature/employeesearch
+
+def printName(name):
+    return f"Hello {name}"
